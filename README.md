@@ -1,2 +1,7 @@
-# infosatc-lp-avaliativo-02
-Atividade avaliativa 02 da disciplina de linguagem de programação do curso técnico de informática SATC 2020
+![](logosatc.png)
+# Curso de Informatica
+ - *Linguagem de Programacao*;
+ - *2020*;
+ - *Primeiros exercicios avaliativos*;
+ - *Python*; 
+ - [Exercicios](https://github.com/victorbonomi16/infosatc-lp-avaliativo-02) . 
